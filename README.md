@@ -1,4 +1,6 @@
 # openssl-ucc
+**Contributions are welcome!**
+
 The script helps to generate self-signed [UCC certificate] based on `openssl.modified.cnf`.
 The file `openssl.modified.cnf` is mostly being used for generation of certificate requests.
 
